@@ -1,6 +1,6 @@
 {
-    "name": "Mini PWA App",
-    "short_name": "pwa_app",
+    "name": "Xotira o'yini 1.0",
+    "short_name": "Xotira o'yini 1.0",
     "start_url": "/?home=true",
     "icons": [
         {
